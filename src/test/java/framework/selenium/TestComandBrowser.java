@@ -46,6 +46,7 @@ public class TestComandBrowser {
 		titulo = driver.getCurrentUrl();
 		System.out.println(titulo);
 		try {
+			//asas
 			Thread.sleep(10000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
